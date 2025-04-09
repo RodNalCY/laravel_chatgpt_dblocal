@@ -1,0 +1,14 @@
+# Comandos de Laravel
+
+$ php artisan key:generate
+
+# Migrations
+$ php artisan make:migration create_products_table
+$ php artisan make:migration create_chats_table
+$ php artisan make:migration create_chat_messages_table
+$ php artisan make:migration create_logs_table
+$ php artisan make:migration create_parameters_table
+
+
+
+# Documentación
