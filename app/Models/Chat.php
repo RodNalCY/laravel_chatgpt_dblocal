@@ -10,7 +10,7 @@ class Chat extends Model
 {
     use HasFactory;
 
-    protected $fillable = ['name', 'whatsapp_number'];
+    protected $fillable = ['name', 'phone_number'];
 
     public function messages(): HasMany
     {
